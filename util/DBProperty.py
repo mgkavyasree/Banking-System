@@ -1,0 +1,3 @@
+def getconnectionstring():
+    return "hmbank"
+

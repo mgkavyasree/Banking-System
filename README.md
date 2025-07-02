@@ -57,7 +57,7 @@ This project implements a modular and extensible banking system in Python. It si
 * Interface-like structure using abstract methods
 * Composition: Customer associated with Account
 
-### 8. SQL Database Integration (Optional)
+### 8. SQL Database Integration
 
 * Structured schema for Customers, Accounts, Transactions
 * Auto-incremented primary keys
